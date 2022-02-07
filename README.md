@@ -1,8 +1,8 @@
 
  ### PLC based faculty for detecting and removing empty bottles on conveyor
  
- This project has been written with LOGO! Soft Comfort V8.2 (Ladder code).
- There are 7 inputs and 4 outputs.
+ This project is written using LOGO! Soft Comfort V8.2 (Ladder code).
+ There are 7 inputs and 4 outputs for this controller.
  
  #### I/O as follows:
  
